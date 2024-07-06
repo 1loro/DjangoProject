@@ -1,5 +1,4 @@
 
------------------------------------  Criterio  --------------------------------------   | -------
 - - - - - - - - - Autoridad - - - - - - - - -
 
 1. ¿Está claro y explícito quién o quiénes son los responsables del sitio?              | [✓]
@@ -46,3 +45,15 @@
 24. ¿La fluidez y velocidad es adecuada?                                                | [✓]
 25. ¿La aplicación es elegante, funcional y atractiva?                                  | [✓]
 26. ¿El diseño es responsive?                                                           | [✓]
+
+    - - - - - - - - - Django y Autenticación - - - - - - - - -
+
+27. ¿La aplicación cuenta con un sistema de autenticación de usuarios?                  | [✓]
+28. ¿Es posible crear, leer, actualizar y eliminar (CRUD) datos en la aplicación?       | [✓]
+29. ¿Existe un panel de administración accesible solo para usuarios autorizados?        | [✓]
+30. ¿La autenticación incluye funcionalidades como el registro y el inicio de sesión? | [✓]
+31. ¿La base de datos está correctamente configurada y funcionando?                     | [✓]
+32. ¿El acceso a datos sensibles está protegido adecuadamente?                          | [✓]
+33. ¿El diseño del panel de administración es claro y fácil de usar?                    | [✓]
+34. ¿Se pueden gestionar todos los aspectos de la tienda desde el panel de administración? | [✓]
+35. ¿Las operaciones CRUD están bien implementadas y funcionan correctamente?           | [✓]
